@@ -42,8 +42,38 @@ jobs:
           # Remove Timeline (it's disabled by default, but ensuring it's off)
           SHOW_COMMIT_GRAPH: "False"
           
-          # Color customization (optional - uncomment to use)
+          # Theme Customization - Uncomment ONE theme below:
+          
+          # Dark Themes
+          # THEME: "dark"
           # THEME: "radical"
+          # THEME: "merko"
+          # THEME: "gruvbox"
+          # THEME: "tokyonight"
+          # THEME: "onedark"
+          # THEME: "cobalt"
+          # THEME: "synthwave"
+          # THEME: "dracula"
+           THEME: "monokai"
+          
+          # Light Themes
+          # THEME: "default"
+          # THEME: "solarized-light"
+          # THEME: "github"
+          
+          # Colorful Themes
+          # THEME: "vue"
+          # THEME: "react"
+          # THEME: "chartreuse-dark"
+          # THEME: "highcontrast"
+          
+          # Custom Color Scheme (Advanced)
+          # Uncomment and customize these for full control:
+          # COLOR_NAME_0: "#2f80ed"      # Title color
+          # COLOR_NAME_1: "#52616b"      # Text color
+          # COLOR_NAME_2: "#1e2022"      # Background color
+          # COLOR_NAME_3: "#a4a4a4"      # Subtitle color
+          # COLOR_NAME_4: "#646464"      # Secondary text color
           
           # Show detailed time tracking
           SHOW_TOTAL_TIME: "True"
