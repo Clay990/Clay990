@@ -31,7 +31,7 @@ jobs:
           SHOW_TOTAL_CODE_TIME: "True"
           
           # ============ CHARTS & VISUALIZATIONS ============
-          SHOW_LOC_CHART: "True"
+          SHOW_LOC_CHART: "False"
           
           # ============ CUSTOMIZATION ============
           LOCALE: "en"
