@@ -5,7 +5,7 @@ on:
     # Runs at 12am IST (6:30 PM UTC)
     - cron: '30 18 * * *'
   workflow_dispatch:
- 
+
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -41,7 +41,7 @@ jobs:
           
           # Remove Timeline (it's disabled by default, but ensuring it's off)
           SHOW_COMMIT_GRAPH: "False"
-          
+          THEME: "monokai"
           # Theme Customization - Uncomment ONE theme below:
           
           # Dark Themes
@@ -54,7 +54,7 @@ jobs:
           # THEME: "cobalt"
           # THEME: "synthwave"
           # THEME: "dracula"
-           THEME: "monokai"
+          
           
           # Light Themes
           # THEME: "default"
