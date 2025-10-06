@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Waka-Readme Theme Showcase</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 40px 20px;
+        }
+        
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        h1 {
+            text-align: center;
+            color: white;
+            font-size: 2.5em;
+            margin-bottom: 20px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.3);
+        }
+        
+        .subtitle {
+            text-align: center;
+            color: rgba(255,255,255,0.9);
+            margin-bottom: 40px;
+            font-size: 1.1em;
+        }
+        
+        .theme-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 25px;
+            margin-top: 30px;
+        }
+        
+        .theme-card {
+            background: white;
+            border-radius: 15px;
+            padding: 25px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+            transition: transform 0.3s, box-shadow 0.3s;
+            cursor: pointer;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .theme-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 5px;
+            background: linear-gradient(90deg, var(--accent1), var(--accent2));
+        }
+        
+        .theme-card:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 15px 40px rgba(0,0,0,0.3);
+        }
+        
+        .theme-card.selected {
+            transform: scale(1.02);
+            box-shadow: 0 0 0 3px #4CAF50;
+        }
+        
+        .theme-name {
+            font-size: 1.3em;
+            font-weight: bold;
+            margin-bottom: 15px;
+            color: #333;
+        }
+        
+        .theme-preview {
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+            min-height: 120px;
+            display: flex;
+            flex-direction: column;
+            justify-content: space-between;
+        }
+        
+        .preview-title {
+            font-size: 0.9em;
+            font-weight: bold;
+            margin-bottom: 8px;
+        }
+        
+        .preview-bar {
+            height: 8px;
+            border-radius: 4px;
+            margin-bottom: 8px;
+            position: relative;
+            overflow: hidden;
+        }
+        
+        .preview-bar::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            top: 0;
+            height: 100%;
+            width: 70%;
+            background: rgba(255,255,255,0.3);
+            border-radius: 4px;
+        }
+        
+        .theme-code {
+            background: #f5f5f5;
+            padding: 12px;
+            border-radius: 6px;
+            font-family: 'Courier New', monospace;
+            font-size: 0.85em;
+            color: #d63384;
+            word-break: break-all;
+            border: 1px solid #e0e0e0;
+        }
+        
+        .copy-btn {
+            background: #667eea;
+            color: white;
+            border: none;
+            padding: 8px 16px;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 0.9em;
+            margin-top: 10px;
+            width: 100%;
+            transition: background 0.3s;
+        }
+        
+        .copy-btn:hover {
+            background: #5568d3;
+        }
+        
+        .copy-btn.copied {
+            background: #4CAF50;
+        }
+        
+        .category {
+            margin-top: 50px;
+        }
+        
+        .category-title {
+            color: white;
+            font-size: 1.8em;
+            margin-bottom: 20px;
+            padding-bottom: 10px;
+            border-bottom: 3px solid rgba(255,255,255,0.3);
+        }
+        
+        .instructions {
+            background: white;
+            border-radius: 15px;
+            padding: 30px;
+            margin-bottom: 40px;
+            box-shadow: 0 10px 30px rgba(0,0,0,0.2);
+        }
+        
+        .instructions h2 {
+            color: #667eea;
+            margin-bottom: 15px;
+        }
+        
+        .instructions ol {
+            margin-left: 20px;
+            line-height: 1.8;
+        }
+        
+        .instructions li {
+            margin-bottom: 10px;
+        }
+        
+        .instructions code {
+            background: #f5f5f5;
+            padding: 2px 8px;
+            border-radius: 3px;
+            color: #d63384;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🎨 Waka-Readme Theme Showcase</h1>
+        <p class="subtitle">Click on any theme to copy its code!</p>
+        
+        <div class="instructions">
+            <h2>📋 How to Apply a Theme</h2>
+            <ol>
+                <li>Click on your favorite theme below to copy the code</li>
+                <li>Open your <code>waka-readme.yml</code> file</li>
+                <li>Find the theme section and paste the copied code</li>
+                <li>Commit and push your changes</li>
+                <li>Run the workflow to see your new theme!</li>
+            </ol>
+        </div>
+        
+        <div class="category">
+            <h2 class="category-title">🌙 Dark Themes</h2>
+            <div class="theme-grid" id="dark-themes"></div>
+        </div>
+        
+        <div class="category">
+            <h2 class="category-title">☀️ Light Themes</h2>
+            <div class="theme-grid" id="light-themes"></div>
+        </div>
+        
+        <div class="category">
+            <h2 class="category-title">🌈 Colorful Themes</h2>
+            <div class="theme-grid" id="colorful-themes"></div>
+        </div>
+    </div>
+    
+    <script>
+        const themes = {
+            dark: [
+                { name: 'Dark', code: 'dark', bg: '#0d1117', text: '#c9d1d9', accent1: '#58a6ff', accent2: '#1f6feb' },
+                { name: 'Radical', code: 'radical', bg: '#141321', text: '#a9fef7', accent1: '#fe428e', accent2: '#f8d847' },
+                { name: 'Merko', code: 'merko', bg: '#0a0f0d', text: '#68b587', accent1: '#abd200', accent2: '#68b587' },
+                { name: 'Gruvbox', code: 'gruvbox', bg: '#282828', text: '#ebdbb2', accent1: '#fb4934', accent2: '#b8bb26' },
+                { name: 'Tokyo Night', code: 'tokyonight', bg: '#1a1b27', text: '#a9b1d6', accent1: '#7aa2f7', accent2: '#bb9af7' },
+                { name: 'One Dark', code: 'onedark', bg: '#282c34', text: '#abb2bf', accent1: '#61afef', accent2: '#98c379' },
+                { name: 'Cobalt', code: 'cobalt', bg: '#193549', text: '#ffffff', accent1: '#80bfff', accent2: '#ffcc00' },
+                { name: 'Synthwave', code: 'synthwave', bg: '#2b213a', text: '#f5f5f5', accent1: '#e2e9ec', accent2: '#fede5d' },
+                { name: 'Dracula', code: 'dracula', bg: '#282a36', text: '#f8f8f2', accent1: '#ff79c6', accent2: '#bd93f9' },
+                { name: 'Monokai', code: 'monokai', bg: '#272822', text: '#f8f8f2', accent1: '#f92672', accent2: '#a6e22e' }
+            ],
+            light: [
+                { name: 'Default', code: 'default', bg: '#fffefe', text: '#333333', accent1: '#586069', accent2: '#0366d6' },
+                { name: 'Solarized Light', code: 'solarized-light', bg: '#fdf6e3', text: '#657b83', accent1: '#b58900', accent2: '#268bd2' },
+                { name: 'GitHub', code: 'github', bg: '#ffffff', text: '#24292e', accent1: '#0366d6', accent2: '#28a745' }
+            ],
+            colorful: [
+                { name: 'Vue', code: 'vue', bg: '#273849', text: '#ffffff', accent1: '#41b883', accent2: '#35495e' },
+                { name: 'React', code: 'react', bg: '#20232a', text: '#61dafb', accent1: '#61dafb', accent2: '#ffffff' },
+                { name: 'Chartreuse Dark', code: 'chartreuse-dark', bg: '#000000', text: '#7fff00', accent1: '#7fff00', accent2: '#00ff00' },
+                { name: 'High Contrast', code: 'highcontrast', bg: '#000000', text: '#ffffff', accent1: '#ffff00', accent2: '#00ff00' }
+            ]
+        };
+        
+        function createThemeCard(theme) {
+            const card = document.createElement('div');
+            card.className = 'theme-card';
+            card.style.setProperty('--accent1', theme.accent1);
+            card.style.setProperty('--accent2', theme.accent2);
+            
+            card.innerHTML = `
+                <div class="theme-name">${theme.name}</div>
+                <div class="theme-preview" style="background: ${theme.bg}; color: ${theme.text};">
+                    <div class="preview-title">📊 Coding Stats</div>
+                    <div class="preview-bar" style="background: ${theme.accent1};"></div>
+                    <div class="preview-bar" style="background: ${theme.accent2};"></div>
+                </div>
+                <div class="theme-code">THEME: "${theme.code}"</div>
+                <button class="copy-btn" onclick="copyTheme('${theme.code}', this)">Copy Theme Code</button>
+            `;
+            
+            return card;
+        }
+        
+        function copyTheme(code, btn) {
+            const text = `THEME: "${code}"`;
+            navigator.clipboard.writeText(text).then(() => {
+                const originalText = btn.textContent;
+                btn.textContent = '✓ Copied!';
+                btn.classList.add('copied');
+                
+                document.querySelectorAll('.theme-card').forEach(card => {
+                    card.classList.remove('selected');
+                });
+                btn.closest('.theme-card').classList.add('selected');
+                
+                setTimeout(() => {
+                    btn.textContent = originalText;
+                    btn.classList.remove('copied');
+                }, 2000);
+            });
+        }
+        
+        Object.keys(themes).forEach(category => {
+            const container = document.getElementById(`${category}-themes`);
+            themes[category].forEach(theme => {
+                container.appendChild(createThemeCard(theme));
+            });
+        });
+    </script>
+</body>
+</html>
