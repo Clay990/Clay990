@@ -2,7 +2,7 @@
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-439%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-435%20hrs%2014%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -10,7 +10,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 104.7 kB Used in GitHub's Storage 
+> 📦 104.6 kB Used in GitHub's Storage 
  > 
 > 🏆 148 Contributions in the Year 2025
  > 
@@ -71,5 +71,5 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 02/12/2025 12:57:54 UTC
+ Last Updated on 02/12/2025 18:42:00 UTC
 <!--END_SECTION:waka-->
