@@ -2,7 +2,7 @@
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-452%20hrs%2045%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-454%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -47,16 +47,16 @@ Sunday                   85 commits          █████████░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    34 hrs 13 mins      █████████████████████████   100.00 % 
+Other                    32 hrs 2 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   34 hrs 13 mins      █████████████████████████   100.00 % 
+Chrome                   32 hrs 2 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Slow Living Instagram Ree34 hrs 13 mins      █████████████████████████   100.00 % 
+Slow Living Instagram Ree32 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Linux                    34 hrs 13 mins      █████████████████████████   100.00 % 
+Linux                    32 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -71,5 +71,5 @@ HTML                     2 repos             ███░░░░░░░░�
 
 
 
- Last Updated on 05/12/2025 18:36:14 UTC
+ Last Updated on 06/12/2025 01:58:46 UTC
 <!--END_SECTION:waka-->
