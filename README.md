@@ -1,4 +1,14 @@
 ## 👋 Hi, I'm Suraj Mondal
+### 🚀 Mobile App Developer 
+
+<p align="left">
+  <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Mobile_Dev-success?style=flat" />
+</p>
+
+I'm a Computer Science student passionate about building functional mobile applications and exploring new technologies.
+
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
