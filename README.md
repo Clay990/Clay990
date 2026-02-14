@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-921%20hrs%2032%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-913%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
@@ -91,5 +91,5 @@ Vue                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/02/2026 13:05:08 UTC
+ Last Updated on 14/02/2026 18:46:42 UTC
 <!--END_SECTION:waka-->
