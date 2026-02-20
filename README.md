@@ -12,15 +12,15 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-967%20hrs%209%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-970%20hrs%2046%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-451.96%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-454.29%20thousand%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 339.9 kB Used in GitHub's Storage 
+> 📦 403.6 kB Used in GitHub's Storage 
  > 
 > 🏆 87 Contributions in the Year 2026
  > 
@@ -33,21 +33,21 @@ I'm a Computer Science student passionate about building functional mobile appli
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-🌆 Daytime                142 commits         ████████░░░░░░░░░░░░░░░░░   33.81 % 
-🌃 Evening                217 commits         █████████████░░░░░░░░░░░░   51.67 % 
+🌞 Morning                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+🌆 Daytime                148 commits         █████████░░░░░░░░░░░░░░░░   34.74 % 
+🌃 Evening                217 commits         █████████████░░░░░░░░░░░░   50.94 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
-Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
-Thursday                 59 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.05 % 
-Friday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.19 % 
-Sunday                   123 commits         ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+Monday                   78 commits          █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+Tuesday                  39 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Wednesday                61 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+Thursday                 59 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.85 % 
+Friday                   40 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Saturday                 26 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
+Sunday                   123 commits         ███████░░░░░░░░░░░░░░░░░░   28.87 % 
 ```
 
 
@@ -91,5 +91,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/02/2026 07:06:02 UTC
+ Last Updated on 20/02/2026 13:14:44 UTC
 <!--END_SECTION:waka-->
