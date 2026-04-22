@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C375%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C383%20hrs%2020%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,17 +57,18 @@ Sunday                   169 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    28 hrs 7 mins       █████████████████████████   100.00 % 
+Other                    27 hrs 8 mins       █████████████████████████   99.04 % 
+Image (svg)              15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
 
 🔥 Editors: 
-Chrome                   28 hrs 7 mins       █████████████████████████   100.00 % 
+Chrome                   27 hrs 24 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-okv-yryf-xxs             21 hrs 53 mins      ███████████████████░░░░░░   77.87 % 
-Radhe                    6 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.13 % 
+okv-yryf-xxs             26 hrs 29 mins      ████████████████████████░   96.66 % 
+usnow                    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 % 
 
 💻 Operating System: 
-Linux                    28 hrs 7 mins       █████████████████████████   100.00 % 
+Linux                    27 hrs 24 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -83,5 +84,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 21/04/2026 19:22:47 UTC
+ Last Updated on 22/04/2026 03:28:15 UTC
 <!--END_SECTION:waka-->
