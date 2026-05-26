@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C567%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C575%20hrs%2041%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,18 +57,18 @@ Sunday                   177 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    45 hrs 44 mins      █████████████████████████   99.85 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Other                    48 hrs 32 mins      █████████████████████████   99.86 % 
+TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Chrome                   45 hrs 48 mins      █████████████████████████   100.00 % 
+Chrome                   48 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-okv-yryf-xxs             40 hrs 4 mins       ██████████████████████░░░   87.47 % 
-video-editing-mcp        5 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.53 % 
+okv-yryf-xxs             34 hrs 26 mins      ██████████████████░░░░░░░   70.87 % 
+video-editing-mcp        14 hrs 9 mins       ███████░░░░░░░░░░░░░░░░░░   29.13 % 
 
 💻 Operating System: 
-Linux                    45 hrs 48 mins      █████████████████████████   100.00 % 
+Linux                    48 hrs 36 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -84,5 +84,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/05/2026 19:51:01 UTC
+ Last Updated on 26/05/2026 04:12:21 UTC
 <!--END_SECTION:waka-->
