@@ -12,8 +12,6 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C593%20hrs%2028%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-781.19%20thousand%20lines%20of%20code-blue?style=flat)
@@ -30,47 +28,6 @@ I'm a Computer Science student passionate about building functional mobile appli
  > 
 > 🔑 13 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                104 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌆 Daytime                277 commits         ██████████░░░░░░░░░░░░░░░   41.10 % 
-🌃 Evening                291 commits         ███████████░░░░░░░░░░░░░░   43.18 % 
-🌙 Night                  2 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   126 commits         █████░░░░░░░░░░░░░░░░░░░░   18.69 % 
-Tuesday                  67 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Wednesday                76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Thursday                 73 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.83 % 
-Friday                   77 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.42 % 
-Saturday                 78 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Sunday                   177 commits         ███████░░░░░░░░░░░░░░░░░░   26.26 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Kolkata
-
-💬 Programming Languages: 
-Other                    47 hrs 43 mins      █████████████████████████   99.86 % 
-TypeScript               3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-
-🔥 Editors: 
-Chrome                   47 hrs 47 mins      █████████████████████████   100.00 % 
-
-🐱‍💻 Projects: 
-okv-yryf-xxs             31 hrs 2 mins       ████████████████░░░░░░░░░   64.95 % 
-video-editing-mcp        16 hrs 45 mins      █████████░░░░░░░░░░░░░░░░   35.05 % 
-
-💻 Operating System: 
-Linux                    47 hrs 47 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -84,5 +41,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 16:16:29 UTC
+ Last Updated on 28/05/2026 20:32:41 UTC
 <!--END_SECTION:waka-->
