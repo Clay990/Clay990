@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C764%20hrs%2037%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C771%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,19 +57,18 @@ Sunday                   177 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    40 hrs 29 mins      █████████████████████████   99.99 % 
+Other                    41 hrs 38 mins      █████████████████████████   99.99 % 
 Kotlin                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   40 hrs 30 mins      █████████████████████████   100.00 % 
+Chrome                   41 hrs 39 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Meet - okv-yryf-xxs      38 hrs 37 mins      ████████████████████████░   95.35 % 
-gemini-cli               1 hr 52 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
+Meet - okv-yryf-xxs      41 hrs 38 mins      █████████████████████████   99.99 % 
 rustdesk                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Linux                    40 hrs 30 mins      █████████████████████████   100.00 % 
+Linux                    41 hrs 39 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,5 +84,5 @@ C++                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/06/2026 19:40:00 UTC
+ Last Updated on 29/06/2026 04:45:39 UTC
 <!--END_SECTION:waka-->
