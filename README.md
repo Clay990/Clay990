@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C945%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C949%20hrs%2034%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -77,15 +77,15 @@ Linux                    54 hrs 19 mins      ███████████�
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ████████████░░░░░░░░░░░░░   47.06 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Shell                    1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   45.71 % 
+HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Shell                    2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 ```
 
 
 
 
- Last Updated on 24/07/2026 08:36:26 UTC
+ Last Updated on 24/07/2026 13:59:22 UTC
 <!--END_SECTION:waka-->
