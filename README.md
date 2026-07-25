@@ -12,6 +12,8 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C953%20hrs%2038%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-787.96%20thousand%20lines%20of%20code-blue?style=flat)
@@ -55,21 +57,21 @@ Sunday                   177 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    51 hrs 22 mins      ████████████████████████░   94.57 % 
-Kotlin                   2 hrs 57 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
+Other                    55 hrs 39 mins      ██████████████████████░░░   88.81 % 
+Kotlin                   7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 
 🔥 Editors: 
-Chrome                   54 hrs 19 mins      █████████████████████████   100.00 % 
+Chrome                   62 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-leetcode-company-wise-pro26 hrs              ████████████░░░░░░░░░░░░░   47.88 % 
-Meet - okv-yryf-xxs      14 hrs 6 mins       ██████░░░░░░░░░░░░░░░░░░░   25.96 % 
-register                 9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-dynamo-ec8d3f4-security  4 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-Portfolio                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+leetcode-company-wise-pro26 hrs              ██████████░░░░░░░░░░░░░░░   41.51 % 
+dynamo-ec8d3f4-security  10 hrs 52 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
+Meet - okv-yryf-xxs      10 hrs 30 mins      ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+register                 9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+dynamo-122c7e3-build-depe5 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 💻 Operating System: 
-Linux                    54 hrs 19 mins      █████████████████████████   100.00 % 
+Linux                    62 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -85,5 +87,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:39:41 UTC
+ Last Updated on 25/07/2026 03:23:15 UTC
 <!--END_SECTION:waka-->
