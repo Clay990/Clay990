@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-142%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-143%20hrs%203%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -59,21 +59,21 @@ Sunday                   177 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    55 hrs 4 mins       ████████████████████░░░░░   80.50 % 
-Kotlin                   13 hrs 20 mins      █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
+Other                    55 hrs 26 mins      █████████████████████░░░░   82.79 % 
+Kotlin                   11 hrs 31 mins      ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
 
 🔥 Editors: 
-Chrome                   68 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   66 hrs 57 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-dynamo-15a22fe-data-proce22 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   32.61 % 
-dynamo-a68dba5-model-trai10 hrs 36 mins      ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-Meet - okv-yryf-xxs      8 hrs 3 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-dynamo-f04adeb-games-puzz7 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-dynamo-855be31-data-proce6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+dynamo-15a22fe-data-proce22 hrs 21 mins      ████████░░░░░░░░░░░░░░░░░   33.38 % 
+dynamo-f04adeb-games-puzz13 hrs 7 mins       █████░░░░░░░░░░░░░░░░░░░░   19.60 % 
+Meet - okv-yryf-xxs      8 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+dynamo-855be31-data-proce6 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+dynamo-a68dba5-model-trai5 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.54 % 
 
 💻 Operating System: 
-Linux                    68 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    66 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -95,5 +95,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/08/2026 19:20:03 UTC
+ Last Updated on 03/08/2026 03:37:01 UTC
 <!--END_SECTION:waka-->
