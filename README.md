@@ -22,13 +22,13 @@ I'm a Computer Science student passionate about building functional mobile appli
 
 **🐱 My GitHub Data** 
 
-> 📦 516.3 kB Used in GitHub's Storage 
+> 📦 516.4 kB Used in GitHub's Storage 
  > 
-> 🏆 129 Contributions in the Year 2026
+> 🏆 130 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 22 Public Repositories 
+> 📜 23 Public Repositories 
  > 
 > 🔑 14 Private Repositories 
  > 
@@ -85,15 +85,15 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   44.44 % 
-HTML                     4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
-Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
-CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.78 % 
+TypeScript               16 repos            ███████████░░░░░░░░░░░░░░   43.24 % 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
+Shell                    3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
+Kotlin                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
+CSS                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.70 % 
 ```
 
 
 
 
- Last Updated on 12/08/2026 07:41:49 UTC
+ Last Updated on 12/08/2026 13:24:39 UTC
 <!--END_SECTION:waka-->
