@@ -12,7 +12,7 @@ I'm a Computer Science student passionate about building functional mobile appli
 ### 🚀 Open to Work | Available for Opportunities
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2040%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-151%20hrs%2045%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-3%20mins-blue?style=flat)
 
@@ -59,22 +59,22 @@ Sunday                   182 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    56 hrs 2 mins       █████████████████████████   99.60 % 
-Kotlin                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+Other                    48 hrs 57 mins      █████████████████████████   99.36 % 
+Kotlin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
 
 🔥 Editors: 
-Chrome                   56 hrs 16 mins      █████████████████████████   100.00 % 
+Chrome                   49 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Meet - okv-yryf-xxs      33 hrs 6 mins       ███████████████░░░░░░░░░░   58.85 % 
-Meet - gxo-uefk-dgu      20 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   36.98 % 
-Axolotl                  1 hr 30 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-Meet - sud-juxb-uch      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+Meet - okv-yryf-xxs      22 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
+Meet - gxo-uefk-dgu      20 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.23 % 
+Axolotl                  5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Meet - sud-juxb-uch      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
 okv-yryf-xxs             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    56 hrs 7 mins       █████████████████████████   99.74 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Linux                    49 hrs 7 mins       █████████████████████████   99.70 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,5 +96,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/09/2026 20:55:30 UTC
+ Last Updated on 03/09/2026 04:02:09 UTC
 <!--END_SECTION:waka-->
