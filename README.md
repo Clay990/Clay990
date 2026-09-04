@@ -59,22 +59,21 @@ Sunday                   182 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    48 hrs 57 mins      █████████████████████████   99.36 % 
-Kotlin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
+Other                    37 hrs 12 mins      █████████████████████████   99.16 % 
+Kotlin                   18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 🔥 Editors: 
-Chrome                   49 hrs 16 mins      █████████████████████████   100.00 % 
+Chrome                   37 hrs 31 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Meet - okv-yryf-xxs      22 hrs 33 mins      ███████████░░░░░░░░░░░░░░   45.77 % 
-Meet - gxo-uefk-dgu      20 hrs 48 mins      ███████████░░░░░░░░░░░░░░   42.23 % 
-Axolotl                  5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Meet - sud-juxb-uch      48 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+Meet - gxo-uefk-dgu      20 hrs 6 mins       █████████████░░░░░░░░░░░░   53.57 % 
+Meet - okv-yryf-xxs      12 hrs 19 mins      ████████░░░░░░░░░░░░░░░░░   32.85 % 
+Axolotl                  5 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 okv-yryf-xxs             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 💻 Operating System: 
-Linux                    49 hrs 7 mins       █████████████████████████   99.70 % 
-Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Linux                    37 hrs 22 mins      █████████████████████████   99.61 % 
+Windows                  8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -96,5 +95,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/09/2026 20:52:50 UTC
+ Last Updated on 04/09/2026 04:05:26 UTC
 <!--END_SECTION:waka-->
