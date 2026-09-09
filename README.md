@@ -59,19 +59,18 @@ Sunday                   182 commits         ███████░░░░�
 🕑︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-Other                    13 hrs 5 mins       ████████████████████████░   97.65 % 
-Kotlin                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.35 % 
+Other                    5 hrs 32 mins       █████████████████████████   98.45 % 
+Kotlin                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 24 mins      █████████████████████████   100.00 % 
+Chrome                   5 hrs 37 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Meet - okv-yryf-xxs      8 hrs 18 mins       ███████████████░░░░░░░░░░   61.99 % 
-Axolotl                  5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   37.92 % 
-okv-yryf-xxs             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Axolotl                  3 hrs 34 mins       ████████████████░░░░░░░░░   63.42 % 
+Meet - okv-yryf-xxs      2 hrs 3 mins        █████████░░░░░░░░░░░░░░░░   36.58 % 
 
 💻 Operating System: 
-Linux                    13 hrs 24 mins      █████████████████████████   100.00 % 
+Linux                    5 hrs 37 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -93,5 +92,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 21:00:55 UTC
+ Last Updated on 09/09/2026 04:16:24 UTC
 <!--END_SECTION:waka-->
